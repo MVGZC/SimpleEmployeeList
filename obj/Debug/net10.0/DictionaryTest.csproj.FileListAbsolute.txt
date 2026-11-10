@@ -1,0 +1,15 @@
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\DictionaryTest.exe
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\DictionaryTest.deps.json
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\DictionaryTest.runtimeconfig.json
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\DictionaryTest.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\DictionaryTest.pdb
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\DictionaryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\DictionaryTest.AssemblyInfoInputs.cache
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\DictionaryTest.AssemblyInfo.cs
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\DictionaryTest.csproj.CoreCompileInputs.cache
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\DictionaryTest.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\refint\DictionaryTest.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\DictionaryTest.pdb
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\DictionaryTest.genruntimeconfig.cache
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\ref\DictionaryTest.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\Dictiona.3D0E3360.Up2Date

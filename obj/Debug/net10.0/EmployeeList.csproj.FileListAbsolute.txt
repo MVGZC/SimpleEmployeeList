@@ -1,0 +1,15 @@
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\EmployeeList.exe
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\EmployeeList.deps.json
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\EmployeeList.runtimeconfig.json
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\EmployeeList.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\bin\Debug\net10.0\EmployeeList.pdb
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\EmployeeList.AssemblyInfoInputs.cache
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\EmployeeList.AssemblyInfo.cs
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\EmployeeList.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\refint\EmployeeList.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\EmployeeList.pdb
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\EmployeeList.genruntimeconfig.cache
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\ref\EmployeeList.dll
+C:\Users\mauro\source\repos\MyStuff\DungeonGame\DictionaryTest\obj\Debug\net10.0\Employee.77413BAB.Up2Date
